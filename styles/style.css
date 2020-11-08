@@ -1,0 +1,20 @@
+body {
+    color: purple; 
+    font-size: larger;
+    font-weight: lighter; 
+    font-family: 'Changa', sans-serif; 
+    text-align: center; 
+}
+
+li {
+    color: pink; 
+}
+
+#header {
+    width: 100%; 
+    background-color: rosybrown;
+}
+
+.column {
+    width: 50%; 
+}
